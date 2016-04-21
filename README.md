@@ -1,2 +1,2 @@
-# NYT_trump_coverage
-Analysis of the drop in NYT's coverage of Trump. 
+# NYT Trump Coverage
+Analysis of the drop in the NYT's coverage of Donald Trump in late March / early April. 
