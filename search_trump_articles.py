@@ -4,7 +4,7 @@ import json
 from IPython import embed
 from pylab import *
 import random
-api_key = YOUR_API_KEY_HERE#'d2df0ae1341502ab27bfaf2693816071:13:63151714'
+api_key = YOUR_API_KEY_HERE#
 for headline_string in ['headlines', 'posts']:
     for query in ['clinton', 'trump', 'obama', 'cruz', 'kasich', 'sanders']:
         date = datetime.date(2016, 4, 16)
